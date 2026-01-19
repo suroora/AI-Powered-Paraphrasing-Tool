@@ -56,13 +56,13 @@ jupyter notebook AI_Paraphrasing_Tool.ipynb
 ## 🧪 Sample Input
 
 ```
-Artificial intelligence is transforming industries by improving efficiency and accuracy.
+now a days Artificial industries  booming in all area of the life.
 ```
 
 ## ✅ Sample Output
 
 ```
-Artificial intelligence is changing industries by increasing precision and operational efficiency.
+Now a days Artificial industries are booming in all areas of the life.
 ```
 
 ---
